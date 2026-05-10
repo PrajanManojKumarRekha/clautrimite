@@ -6,6 +6,7 @@ Phase-routed orchestration for Claude Code.
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-skill-blue)
 ![Routing](https://img.shields.io/badge/routing-gstack%20%E2%86%92%20GSD%20%E2%86%92%20Superpowers-black)
 ![Priority](https://img.shields.io/badge/priority-quality%20first-orange)
+
 Clautrimite keeps the right framework in the right phase:
 
 - `gstack` for spec lock
