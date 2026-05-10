@@ -1,0 +1,9 @@
+{
+  "name": "clautrimite",
+  "version": "1.0.0",
+  "description": "Claude Code routing skill that enforces phase boundaries across gstack, GSD, and Superpowers.",
+  "author": "clautrimite contributors",
+  "skills": [
+    "SKILL.md"
+  ]
+}

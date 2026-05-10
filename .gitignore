@@ -1,0 +1,6 @@
+.claude/
+plan.md
+
+# Local editor / OS noise
+.DS_Store
+Thumbs.db
