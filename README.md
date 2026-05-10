@@ -372,11 +372,4 @@ Clautrimite does not replace those projects. It routes them.
 [SKILL.md](SKILL.md), but it has **not** been end-to-end benchmark-validated in this
 repository's public findings yet.
 
-The current claim is:
-
-- the behavior is specified
-- the logging format is defined
-- the resume path is designed
-
-But it should still be treated as a feature that needs explicit interactive validation in
-Claude Code, rather than assumed fully proven by the benchmark results above.
+If you find this project useful, please consider giving it a ⭐ Star! It helps the project gain visibility and lets me know that my work is appreciated.
