@@ -89,4 +89,4 @@ In particular:
 ## Questions
 
 If a change would materially alter routing ownership or the product scope, discuss it
-before implementing it.
+before implementing it. You can email it @ prajan.inbox@gmail.com
